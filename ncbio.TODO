@@ -1,0 +1,42 @@
+
+Tasks:
+
+    Setup:
+        
+        ✔ Create app 
+        ✔ setup git
+        ✔ make git organization 
+        ✔ Checkout to branch
+        ✔ setup Readme 
+        ✔ setup tailwind 
+        ☐ write component tree in Readme
+    
+    Styling: 
+
+        ☐ retrieve icons and pictures from Mac
+        ☐ identify fonts
+        ☐ import fonts
+        ☐ identify colors
+        ☐ create color variables
+    
+    Pages:
+        
+        ☐ Identify the components that will be used on multiple pages
+        ☐ Break down every page into its components
+        ☐ Break down layout of each page and what css is needed and where
+        ☐ Identify tailwind code for each type of btn and layout
+        ☐ Break down components 
+        ☐ create pages
+
+    Post:
+
+        ☐ transfer domain to vercel
+        ☐ add git organization image on github
+        ☐ add seo library
+
+
+
+
+
+
+        
